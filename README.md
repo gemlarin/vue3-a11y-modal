@@ -2,7 +2,7 @@
 
 Vue 3 + TypeScript demo of an **accessible modal** with keyboard support.
 
-## What it demonstrates
+## Features
 
 - `role="dialog"` and `aria-modal="true"`
 - Title linked via `aria-labelledby`
